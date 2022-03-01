@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/car-project/1">
+            <name>AlarmJanko</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+            <included-library dirs="200">libs.javaee-api-8.0.classpath</included-library>
+            <included-library dirs="200">libs.eclipselink.classpath</included-library>
+            <included-library dirs="200">file.reference.annotations-13.0.jar</included-library>
+            <included-library dirs="200">file.reference.google-maps-services-0.19.0.jar</included-library>
+            <included-library dirs="200">file.reference.grpc-context-1.27.2.jar</included-library>
+            <included-library dirs="200">file.reference.gson-2.8.6.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-1.4.10.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-common-1.4.0.jar</included-library>
+            <included-library dirs="200">file.reference.okhttp-4.9.1.jar</included-library>
+            <included-library dirs="200">file.reference.okio-2.8.0.jar</included-library>
+            <included-library dirs="200">file.reference.opencensus-api-0.28.0.jar</included-library>
+            <included-library dirs="200">file.reference.slf4j-api-1.7.26.jar</included-library>
+        </data>
+    </configuration>
+</project>

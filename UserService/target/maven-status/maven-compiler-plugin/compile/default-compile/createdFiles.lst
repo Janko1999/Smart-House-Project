@@ -1,0 +1,10 @@
+com\mycompany\userservice\resources\JavaEE8Resource.class
+messages\PlannerMessage.class
+com\mycompany\userservice\resources\Alarm.class
+messages\alarmMessage.class
+enteties\User.class
+authentification\authentification.class
+com\mycompany\userservice\resources\PlannerWeb.class
+enteties\Planner.class
+enteties\Alarm.class
+com\mycompany\userservice\JAXRSConfiguration.class
